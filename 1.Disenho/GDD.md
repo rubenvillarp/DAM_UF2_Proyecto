@@ -44,20 +44,26 @@ Durante una partida en el modo multijugador, se le mostrará un minimapa con la 
 ## MECÁNICAS
 
 - Reglas:
-  En el modo historia, el usuario gana cuando completa la misma.
-  En el modo multijugador:
-  En el mapa habría 2 zonas en las que una de las facciones tendría que colocar un explosivo con el fin de destruir un objetivo, si esta destruye el objetivo ganará la ronda.
-  Si una de las facciones elimina a la contraria antes de que la facción atacante coloque el artefacto o el tiempo de la ronda acabe, dicha facción ganará la ronda.
-  Si la facción atacante es eliminada pero el artefacto ha sido colocado, la facción defensora deberá desactivarlo antes de que se acabe el tiempo para ganar la ronda.
-  Cada equipo realizará un total de 15 rondas en la facción inicial, tras las cuales los equipos se intercambiarán las mismas.
-  El equipo ganador será el primero en ganar 16 rondas.
+
+  - En el modo historia, el usuario gana cuando completa la misma.
+  - En el modo multijugador:
+  - En el mapa habría 2 zonas en las que una de las facciones tendría que colocar un explosivo con el fin de destruir un objetivo, si esta destruye el objetivo ganará la ronda.
+  - Si una de las facciones elimina a la contraria antes de que la facción atacante coloque el artefacto o el tiempo de la ronda acabe, dicha facción ganará la ronda.
+  - Si la facción atacante es eliminada pero el artefacto ha sido colocado, la facción defensora deberá desactivarlo antes de que se acabe el tiempo para ganar la ronda.
+  - Cada equipo realizará un total de 15 rondas en la facción inicial, tras las cuales los equipos se intercambiarán las mismas.
+  - El equipo ganador será el primero en ganar 16 rondas.
+
 - Interacción:
-  El jugador podrá moverse, correr, saltar, agacharse y tumbarse. También podrá apuntar con las miras de las armas.
+
+  - El jugador podrá moverse, correr, saltar, agacharse y tumbarse. También podrá apuntar con las miras de las armas.
+
 - Puntaje:
-  En el modo historia: La experiencia y el nivel.
-  En el modo multijugador: Las rondas ganadas.
+
+  - En el modo historia: La experiencia y el nivel.
+  - En el modo multijugador: Las rondas ganadas.
+
 - Dificultad:
-  En el modo historia, el jugador podrá elegir entre varias dificultades que harán que los enemigos tengan mejor precisión, sean más cantidad, y la cantidad de munición disponible se reduzca.
+  - En el modo historia, el jugador podrá elegir entre varias dificultades que harán que los enemigos tengan mejor precisión, sean más cantidad, y la cantidad de munición disponible se reduzca.
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
@@ -79,7 +85,7 @@ Los assets utilizados para la realización del proyecto
   Disparo del arma.
 
 - Modelos 2D/3D
-  Mapa de New York by Geopipe Inc. (https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-2-222827)
-  Modelo de pistola Beretta M1911 by Nokobot (https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821)
-  Adam Character Pack by Unity Technologies (https://assetstore.unity.com/packages/3d/characters/adam-character-pack-adam-guard-lu-74842)
-  Standard Assets Unity by Unity Technologies (https://assetstore.unity.com/packages/essentials/starterassets-firstperson-updates-in-new-charactercontroller-pac-196525)
+  - [Mapa de New York by Geopipe Inc.](https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-2-222827)
+  - [Modelo de pistola Beretta M1911 by Nokobot](https://assetstore.unity.com/packages/3d/props/guns/modern-guns-handgun-129821)
+  - [Adam Character Pack by Unity Technologies](https://assetstore.unity.com/packages/3d/characters/adam-character-pack-adam-guard-lu-74842)
+  - [Standard Assets Unity by Unity Technologies](https://assetstore.unity.com/packages/essentials/starterassets-firstperson-updates-in-new-charactercontroller-pac-196525)
